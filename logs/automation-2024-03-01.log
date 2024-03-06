@@ -1,0 +1,54 @@
+14:47:20.134 [main] INFO  TestBase.BaseClass - Successfully captured error message
+14:47:20.162 [main] INFO  TestBase.BaseClass - *********** ErrorMsg - finished ***********
+15:50:54.326 [main] INFO  TestBase.BaseClass - *********verifing Home Title started***********
+15:50:55.893 [main] INFO  TestBase.BaseClass - got the page title
+15:50:55.903 [main] INFO  TestBase.BaseClass - ***********verified Home Title finished***********
+15:50:57.818 [main] INFO  TestBase.BaseClass - ***********Hover On Upcoming Bikes started***********
+15:50:59.877 [main] INFO  TestBase.BaseClass - ***********Hover On Upcoming Bikes finished***********
+15:51:02.533 [main] INFO  TestBase.BaseClass - ***********verifing Upcoming Bike Option - started***********
+15:51:02.848 [main] INFO  TestBase.BaseClass - Storing boolean value in actual
+15:51:02.848 [main] INFO  TestBase.BaseClass - Verified upcoming bikes options
+15:51:02.848 [main] INFO  TestBase.BaseClass - ***********verified Upcoming Bike Option - finished***********
+15:51:03.629 [main] INFO  TestBase.BaseClass - ***********Click On Upcoming Bikes - started***********
+15:51:07.309 [main] INFO  TestBase.BaseClass - ***********Click On Upcoming Bikes - finished***********
+15:51:07.957 [main] INFO  TestBase.BaseClass - ***********verifing Upcoming Bike Page Title - started***********
+15:51:08.345 [main] INFO  TestBase.BaseClass - Verified upcoming page title
+15:51:08.345 [main] INFO  TestBase.BaseClass - ***********verified Upcoming Bike Page Title - finished***********
+15:51:08.869 [main] INFO  TestBase.BaseClass - ***********click On Manufacturers - started***********
+15:51:15.341 [main] INFO  TestBase.BaseClass - click On Manufacturers
+15:51:15.342 [main] INFO  TestBase.BaseClass - click On View MOre - Statred
+15:51:16.129 [main] INFO  TestBase.BaseClass - clicked On View MOre
+15:51:16.129 [main] INFO  TestBase.BaseClass - *********** click On View MOre - finished ***********
+15:51:20.372 [main] INFO  TestBase.BaseClass - ***********verify Honda Selected - started***********
+15:51:21.000 [main] INFO  TestBase.BaseClass - ***********Bikes Below 4 Lakhs - started***********
+15:51:37.464 [main] INFO  TestBase.BaseClass - ***********Bikes Below 4 Lakhs - finished***********
+15:52:09.288 [main] INFO  TestBase.BaseClass - *********** Used cars - started ***********
+15:52:10.960 [main] INFO  TestBase.BaseClass - Successfully hover on used cars
+15:52:20.031 [main] INFO  TestBase.BaseClass - Successfully clicked on chennai
+15:52:20.032 [main] INFO  TestBase.BaseClass - *********** Used cars - finished ***********
+15:52:20.514 [main] INFO  TestBase.BaseClass - *********** Get popular car model - started ***********
+15:52:23.573 [main] INFO  TestBase.BaseClass - Successfully get popular car model name
+15:52:23.573 [main] INFO  TestBase.BaseClass - *********** Get popular car model - finished ***********
+15:52:58.182 [main] INFO  TestBase.BaseClass - *********** Verify login Page - started ***********
+15:53:07.557 [main] INFO  TestBase.BaseClass - Successfully clicked on login/Signup Button
+15:53:08.163 [main] INFO  TestBase.BaseClass - Successfully clicked on google
+15:53:08.164 [main] INFO  TestBase.BaseClass - *********** Verify login Page - finished ***********
+15:53:08.780 [main] INFO  TestBase.BaseClass - *********** Redirect To Login Page - started ***********
+15:53:08.958 [main] INFO  TestBase.BaseClass - Successfully switched on login Page
+15:53:08.958 [main] INFO  TestBase.BaseClass - *********** Redirect To Login Page - finished ***********
+15:53:16.394 [main] INFO  TestBase.BaseClass - *********** Redirect To Login Page - started ***********
+15:53:17.090 [main] INFO  TestBase.BaseClass - Successfully Details entered
+15:53:18.657 [main] INFO  TestBase.BaseClass - *********** Redirect To Login Page - finished ***********
+15:53:19.062 [main] INFO  TestBase.BaseClass - *********** ErrorMsg - started ***********
+15:53:19.365 [main] INFO  TestBase.BaseClass - Successfully captured error message
+15:53:19.366 [main] INFO  TestBase.BaseClass - *********** ErrorMsg - finished ***********
+16:03:03.579 [main] INFO  TestBase.BaseClass - *********verifing Home Title started***********
+16:03:04.592 [main] INFO  TestBase.BaseClass - got the page title
+16:03:04.601 [main] INFO  TestBase.BaseClass - ***********verified Home Title finished***********
+16:03:05.992 [main] INFO  TestBase.BaseClass - ***********Hover On Upcoming Bikes started***********
+16:03:07.773 [main] INFO  TestBase.BaseClass - ***********Hover On Upcoming Bikes finished***********
+16:03:09.474 [main] INFO  TestBase.BaseClass - ***********verifing Upcoming Bike Option - started***********
+16:03:09.666 [main] INFO  TestBase.BaseClass - Storing boolean value in actual
+16:03:09.666 [main] INFO  TestBase.BaseClass - Verified upcoming bikes options
+16:03:09.667 [main] INFO  TestBase.BaseClass - ***********verified Upcoming Bike Option - finished***********
+16:03:10.457 [main] INFO  TestBase.BaseClass - ***********Click On Upcoming Bikes - started***********

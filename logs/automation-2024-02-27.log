@@ -1,0 +1,53 @@
+14:39:12.556 [main] INFO  TestBase.BaseClass - *********** Redirect To Login Page - started ***********
+14:39:13.609 [main] INFO  TestBase.BaseClass - Successfully hover on used cars
+14:39:18.531 [main] INFO  TestBase.BaseClass - Successfully clicked on chennai
+14:39:18.533 [main] INFO  TestBase.BaseClass - *********** Redirect To Login Page - finished ***********
+14:39:18.556 [main] INFO  TestBase.BaseClass - *********** Redirect To Login Page - started ***********
+14:39:21.212 [main] INFO  TestBase.BaseClass - Successfully get popular car model name
+14:39:21.213 [main] INFO  TestBase.BaseClass - *********** Redirect To Login Page - finished ***********
+14:49:51.359 [main] INFO  TestBase.BaseClass - *********** Redirect To Login Page - started ***********
+14:49:52.691 [main] INFO  TestBase.BaseClass - Successfully hover on used cars
+14:49:58.850 [main] INFO  TestBase.BaseClass - Successfully clicked on chennai
+14:49:58.851 [main] INFO  TestBase.BaseClass - *********** Redirect To Login Page - finished ***********
+14:49:58.884 [main] INFO  TestBase.BaseClass - *********** Redirect To Login Page - started ***********
+14:50:05.189 [main] INFO  TestBase.BaseClass - Successfully get popular car model name
+14:50:05.190 [main] INFO  TestBase.BaseClass - *********** Redirect To Login Page - finished ***********
+15:05:09.156 [main] INFO  TestBase.BaseClass - *********verifing Home Title started***********
+15:05:09.446 [main] INFO  TestBase.BaseClass - got the page title
+15:05:09.894 [main] INFO  TestBase.BaseClass - ***********Hover On Upcoming Bikes started***********
+15:05:20.314 [main] INFO  TestBase.BaseClass - ***********verifing Upcoming Bike Option - started***********
+15:05:30.678 [main] INFO  TestBase.BaseClass - ***********Click On Upcoming Bikes - started***********
+15:05:56.291 [main] INFO  TestBase.BaseClass - ***********verifing Upcoming Bike Page Title - started***********
+15:05:57.397 [main] INFO  TestBase.BaseClass - ***********click On Manufacturers - started***********
+15:06:09.740 [main] INFO  TestBase.BaseClass - ***********verify Honda Selected - started***********
+15:06:10.966 [main] INFO  TestBase.BaseClass - ***********Bikes Below 4 Lakhs - started***********
+15:06:12.517 [main] INFO  TestBase.BaseClass - ***********Bikes Below 4 Lakhs - finished***********
+15:07:13.344 [main] INFO  TestBase.BaseClass - *********verifing Home Title started***********
+15:07:13.480 [main] INFO  TestBase.BaseClass - got the page title
+15:07:13.488 [main] INFO  TestBase.BaseClass - ***********verified Home Title finished***********
+15:07:14.762 [main] INFO  TestBase.BaseClass - ***********Hover On Upcoming Bikes started***********
+15:07:15.468 [main] INFO  TestBase.BaseClass - ***********Hover On Upcoming Bikes finished***********
+15:07:16.426 [main] INFO  TestBase.BaseClass - ***********verifing Upcoming Bike Option - started***********
+15:07:16.665 [main] INFO  TestBase.BaseClass - Storing boolean value in actual
+15:07:16.666 [main] INFO  TestBase.BaseClass - Verified upcoming bikes options
+15:07:16.666 [main] INFO  TestBase.BaseClass - ***********verified Upcoming Bike Option - finished***********
+15:07:17.537 [main] INFO  TestBase.BaseClass - ***********Click On Upcoming Bikes - started***********
+15:07:27.552 [main] INFO  TestBase.BaseClass - ***********Click On Upcoming Bikes - finished***********
+15:07:27.866 [main] INFO  TestBase.BaseClass - ***********verifing Upcoming Bike Page Title - started***********
+15:07:27.887 [main] INFO  TestBase.BaseClass - Verified upcoming page title
+15:07:27.887 [main] INFO  TestBase.BaseClass - ***********verified Upcoming Bike Page Title - finished***********
+15:07:28.928 [main] INFO  TestBase.BaseClass - ***********click On Manufacturers - started***********
+15:07:32.734 [main] INFO  TestBase.BaseClass - click On Manufacturers
+15:07:32.735 [main] INFO  TestBase.BaseClass - click On View MOre - Statred
+15:07:32.986 [main] INFO  TestBase.BaseClass - clicked On View MOre
+15:07:32.986 [main] INFO  TestBase.BaseClass - *********** click On View MOre - finished ***********
+15:07:33.887 [main] INFO  TestBase.BaseClass - ***********verify Honda Selected - started***********
+15:07:33.913 [main] INFO  TestBase.BaseClass - successfully selected honda dropdown
+15:07:33.913 [main] INFO  TestBase.BaseClass - ***********verify Honda Selected - finished***********
+15:07:34.204 [main] INFO  TestBase.BaseClass - ***********Bikes Below 4 Lakhs - started***********
+15:07:45.066 [main] INFO  TestBase.BaseClass - ***********Bikes Below 4 Lakhs - finished***********
+15:08:11.690 [main] INFO  TestBase.BaseClass - *********** Redirect To Login Page - started ***********
+15:08:12.156 [main] INFO  TestBase.BaseClass - Successfully hover on used cars
+15:08:47.949 [main] INFO  TestBase.BaseClass - Successfully clicked on chennai
+15:08:47.949 [main] INFO  TestBase.BaseClass - *********** Redirect To Login Page - finished ***********
+15:08:48.434 [main] INFO  TestBase.BaseClass - *********** Redirect To Login Page - started ***********

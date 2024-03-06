@@ -1,0 +1,53 @@
+09:37:38.165 [main] INFO  TestBase.BaseClass - ***********verified Upcoming Bike Option - finished***********
+09:37:38.656 [main] INFO  TestBase.BaseClass - ***********Click On Upcoming Bikes - started***********
+09:37:40.826 [main] INFO  TestBase.BaseClass - ***********Click On Upcoming Bikes - finished***********
+09:37:41.234 [main] INFO  TestBase.BaseClass - ***********verifing Upcoming Bike Page Title - started***********
+09:37:41.850 [main] INFO  TestBase.BaseClass - Verified upcoming page title
+09:37:41.850 [main] INFO  TestBase.BaseClass - ***********verified Upcoming Bike Page Title - finished***********
+09:37:42.799 [main] INFO  TestBase.BaseClass - ***********click On Manufacturers - started***********
+09:37:45.196 [main] INFO  TestBase.BaseClass - click On Manufacturers
+09:37:45.196 [main] INFO  TestBase.BaseClass - click On View MOre - Statred
+09:37:45.679 [main] INFO  TestBase.BaseClass - clicked On View MOre
+09:37:45.680 [main] INFO  TestBase.BaseClass - *********** click On View MOre - finished ***********
+09:37:46.941 [main] INFO  TestBase.BaseClass - ***********verify Honda Selected - started***********
+09:37:46.979 [main] INFO  TestBase.BaseClass - successfully selected honda dropdown
+09:37:46.980 [main] INFO  TestBase.BaseClass - ***********verify Honda Selected - finished***********
+09:37:47.334 [main] INFO  TestBase.BaseClass - ***********Bikes Below 4 Lakhs - started***********
+09:37:59.828 [main] INFO  TestBase.BaseClass - ***********Bikes Below 4 Lakhs - finished***********
+09:38:10.389 [main] INFO  TestBase.BaseClass - Chrome browser opened successfully
+09:38:16.466 [main] INFO  TestBase.BaseClass - *********** Used cars - started ***********
+09:38:17.078 [main] INFO  TestBase.BaseClass - Successfully hover on used cars
+09:38:24.334 [main] INFO  TestBase.BaseClass - Successfully clicked on chennai
+09:38:24.335 [main] INFO  TestBase.BaseClass - *********** Used cars - finished ***********
+09:38:24.901 [main] INFO  TestBase.BaseClass - *********** Get popular car model - started ***********
+09:38:27.587 [main] INFO  TestBase.BaseClass - Successfully get popular car model name
+09:38:27.588 [main] INFO  TestBase.BaseClass - *********** Get popular car model - finished ***********
+09:38:39.193 [main] INFO  TestBase.BaseClass - Chrome browser opened successfully
+09:38:50.948 [main] INFO  TestBase.BaseClass - *********** Verify login Page - started ***********
+09:38:51.966 [main] INFO  TestBase.BaseClass - Successfully clicked on login/Signup Button
+09:38:52.919 [main] INFO  TestBase.BaseClass - Successfully clicked on google
+09:38:52.920 [main] INFO  TestBase.BaseClass - *********** Verify login Page - finished ***********
+09:38:53.483 [main] INFO  TestBase.BaseClass - *********** Redirect To Login Page - started ***********
+09:38:53.552 [main] INFO  TestBase.BaseClass - Successfully switched on login Page
+09:38:53.552 [main] INFO  TestBase.BaseClass - *********** Redirect To Login Page - finished ***********
+09:38:57.257 [main] INFO  TestBase.BaseClass - *********** Redirect To Login Page - started ***********
+09:38:57.807 [main] INFO  TestBase.BaseClass - Successfully Details entered
+09:38:59.315 [main] INFO  TestBase.BaseClass - *********** Redirect To Login Page - finished ***********
+09:38:59.544 [main] INFO  TestBase.BaseClass - *********** ErrorMsg - started ***********
+09:38:59.685 [main] INFO  TestBase.BaseClass - Successfully captured error message
+09:38:59.685 [main] INFO  TestBase.BaseClass - *********** ErrorMsg - finished ***********
+16:42:18.895 [main] INFO  TestBase.BaseClass - Chrome browser opened successfully
+16:42:47.372 [main] INFO  TestBase.BaseClass - *********verifing Home Title started***********
+16:42:47.616 [main] INFO  TestBase.BaseClass - got the page title
+16:42:47.625 [main] INFO  TestBase.BaseClass - ***********verified Home Title finished***********
+16:42:48.284 [main] INFO  TestBase.BaseClass - ***********Hover On Upcoming Bikes started***********
+16:42:48.514 [main] INFO  TestBase.BaseClass - ***********Hover On Upcoming Bikes finished***********
+16:42:48.888 [main] INFO  TestBase.BaseClass - ***********verifing Upcoming Bike Option - started***********
+16:42:49.033 [main] INFO  TestBase.BaseClass - Storing boolean value in actual
+16:42:49.033 [main] INFO  TestBase.BaseClass - Verified upcoming bikes options
+16:42:49.034 [main] INFO  TestBase.BaseClass - ***********verified Upcoming Bike Option - finished***********
+16:42:49.398 [main] INFO  TestBase.BaseClass - ***********Click On Upcoming Bikes - started***********
+16:43:40.757 [main] INFO  TestBase.BaseClass - ***********Click On Upcoming Bikes - finished***********
+16:43:41.055 [main] INFO  TestBase.BaseClass - ***********verifing Upcoming Bike Page Title - started***********
+16:43:41.070 [main] INFO  TestBase.BaseClass - Verified upcoming page title
+16:43:41.071 [main] INFO  TestBase.BaseClass - ***********verified Upcoming Bike Page Title - finished***********

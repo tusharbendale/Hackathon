@@ -1,0 +1,10 @@
+16:43:41.369 [main] INFO  TestBase.BaseClass - ***********click On Manufacturers - started***********
+16:44:25.459 [main] INFO  TestBase.BaseClass - click On Manufacturers
+16:44:25.460 [main] INFO  TestBase.BaseClass - click On View MOre - Statred
+16:44:25.595 [main] INFO  TestBase.BaseClass - clicked On View MOre
+16:44:25.595 [main] INFO  TestBase.BaseClass - *********** click On View MOre - finished ***********
+16:44:25.903 [main] INFO  TestBase.BaseClass - ***********verify Honda Selected - started***********
+16:44:25.915 [main] INFO  TestBase.BaseClass - successfully selected honda dropdown
+16:44:25.916 [main] INFO  TestBase.BaseClass - ***********verify Honda Selected - finished***********
+16:44:26.208 [main] INFO  TestBase.BaseClass - ***********Bikes Below 4 Lakhs - started***********
+16:44:31.328 [main] INFO  TestBase.BaseClass - ***********Bikes Below 4 Lakhs - finished***********

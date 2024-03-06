@@ -1,0 +1,53 @@
+17:24:09.480 [main] INFO  TestBase.BaseClass - ***********verifing Upcoming Bike Page Title - started***********
+17:24:11.849 [main] INFO  TestBase.BaseClass - Verified upcoming page title
+17:24:11.849 [main] INFO  TestBase.BaseClass - ***********verified Upcoming Bike Page Title - finished***********
+17:24:12.309 [main] INFO  TestBase.BaseClass - ***********click On Manufacturers - started***********
+17:24:14.641 [main] INFO  TestBase.BaseClass - click On Manufacturers
+17:24:14.641 [main] INFO  TestBase.BaseClass - click On View MOre - Statred
+17:24:15.026 [main] INFO  TestBase.BaseClass - clicked On View MOre
+17:24:15.027 [main] INFO  TestBase.BaseClass - *********** click On View MOre - finished ***********
+17:24:15.566 [main] INFO  TestBase.BaseClass - ***********verify Honda Selected - started***********
+17:24:17.640 [main] INFO  TestBase.BaseClass - successfully selected honda dropdown
+17:24:17.640 [main] INFO  TestBase.BaseClass - ***********verify Honda Selected - finished***********
+17:24:18.303 [main] INFO  TestBase.BaseClass - ***********Bikes Below 4 Lakhs - started***********
+17:24:28.958 [main] INFO  TestBase.BaseClass - ***********Bikes Below 4 Lakhs - finished***********
+17:24:56.376 [main] INFO  TestBase.BaseClass - *********** Used cars - started ***********
+17:24:57.503 [main] INFO  TestBase.BaseClass - Successfully hover on used cars
+17:25:05.450 [main] INFO  TestBase.BaseClass - Successfully clicked on chennai
+17:25:05.451 [main] INFO  TestBase.BaseClass - *********** Used cars - finished ***********
+17:25:05.894 [main] INFO  TestBase.BaseClass - *********** Get popular car model - started ***********
+17:25:08.404 [main] INFO  TestBase.BaseClass - Successfully get popular car model name
+17:25:08.405 [main] INFO  TestBase.BaseClass - *********** Get popular car model - finished ***********
+17:25:33.771 [main] INFO  TestBase.BaseClass - *********** Verify login Page - started ***********
+17:25:35.009 [main] INFO  TestBase.BaseClass - Successfully clicked on login/Signup Button
+17:25:36.617 [main] INFO  TestBase.BaseClass - Successfully clicked on google
+17:25:36.618 [main] INFO  TestBase.BaseClass - *********** Verify login Page - finished ***********
+17:25:38.482 [main] INFO  TestBase.BaseClass - *********** Redirect To Login Page - started ***********
+17:25:38.871 [main] INFO  TestBase.BaseClass - Successfully switched on login Page
+17:25:38.872 [main] INFO  TestBase.BaseClass - *********** Redirect To Login Page - finished ***********
+17:25:40.288 [main] INFO  TestBase.BaseClass - *********** Redirect To Login Page - started ***********
+17:25:40.626 [main] INFO  TestBase.BaseClass - Successfully Details entered
+17:25:41.945 [main] INFO  TestBase.BaseClass - *********** Redirect To Login Page - finished ***********
+17:25:42.169 [main] INFO  TestBase.BaseClass - *********** ErrorMsg - started ***********
+17:25:42.301 [main] INFO  TestBase.BaseClass - Successfully captured error message
+17:25:42.302 [main] INFO  TestBase.BaseClass - *********** ErrorMsg - finished ***********
+17:26:41.881 [main] INFO  stepDefinations.hooks - *********verifing Home Title started***********
+17:26:41.919 [main] INFO  stepDefinations.hooks - got the page title
+17:26:41.927 [main] INFO  stepDefinations.hooks - ***********verified Home Title finished***********
+17:26:43.066 [main] INFO  stepDefinations.hooks - ***********Hover On Upcoming Bikes started***********
+17:26:43.552 [main] INFO  stepDefinations.hooks - ***********Hover On Upcoming Bikes finished***********
+17:26:44.383 [main] INFO  stepDefinations.hooks - ***********verifing Upcoming Bike Option - started***********
+17:26:44.537 [main] INFO  stepDefinations.hooks - Storing boolean value in actual
+17:26:44.538 [main] INFO  stepDefinations.hooks - Verified upcoming bikes options
+17:26:44.538 [main] INFO  stepDefinations.hooks - ***********verified Upcoming Bike Option - finished***********
+17:26:45.204 [main] INFO  stepDefinations.hooks - ***********Click On Upcoming Bikes - started***********
+17:26:47.195 [main] INFO  stepDefinations.hooks - ***********Click On Upcoming Bikes - finished***********
+17:26:47.955 [main] INFO  stepDefinations.hooks - ***********verifing Upcoming Bike Page Title - started***********
+17:26:49.350 [main] INFO  stepDefinations.hooks - Verified upcoming page title
+17:26:49.350 [main] INFO  stepDefinations.hooks - ***********verified Upcoming Bike Page Title - finished***********
+17:26:51.568 [main] INFO  stepDefinations.hooks - ***********click On Manufacturers - started***********
+17:26:54.366 [main] INFO  stepDefinations.hooks - click On Manufacturers
+17:26:54.366 [main] INFO  stepDefinations.hooks - click On View MOre - Statred
+17:26:55.051 [main] INFO  stepDefinations.hooks - clicked On View MOre
+17:26:55.051 [main] INFO  stepDefinations.hooks - *********** click On View MOre - finished ***********
+17:26:57.432 [main] INFO  stepDefinations.hooks - ***********verify Honda Selected - started***********

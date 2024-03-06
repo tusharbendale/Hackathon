@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-04T16:42:01 IST" name="Suite" finished-at="2024-03-04T16:44:33 IST" duration-ms="152468">
+    <groups>
+      <group name="regression">
+        <method signature="TC_1_UpcomingBikes.ClickOnUpcomingBikes()[pri:4, instance:TestCases.TC_1_UpcomingBikes@534a5a98]" name="ClickOnUpcomingBikes" class="TestCases.TC_1_UpcomingBikes"/>
+        <method signature="TC_1_UpcomingBikes.bikesBelow4Lakhs()[pri:8, instance:TestCases.TC_1_UpcomingBikes@534a5a98]" name="bikesBelow4Lakhs" class="TestCases.TC_1_UpcomingBikes"/>
+        <method signature="TC_1_UpcomingBikes.clickOnManufacturers()[pri:6, instance:TestCases.TC_1_UpcomingBikes@534a5a98]" name="clickOnManufacturers" class="TestCases.TC_1_UpcomingBikes"/>
+        <method signature="TC_1_UpcomingBikes.verifyHondaSelected()[pri:7, instance:TestCases.TC_1_UpcomingBikes@534a5a98]" name="verifyHondaSelected" class="TestCases.TC_1_UpcomingBikes"/>
+        <method signature="TC_1_UpcomingBikes.verifyUpcomingBikePageTitle()[pri:5, instance:TestCases.TC_1_UpcomingBikes@534a5a98]" name="verifyUpcomingBikePageTitle" class="TestCases.TC_1_UpcomingBikes"/>
+      </group> <!-- regression -->
+      <group name="sanity">
+        <method signature="TC_1_UpcomingBikes.ClickOnUpcomingBikes()[pri:4, instance:TestCases.TC_1_UpcomingBikes@534a5a98]" name="ClickOnUpcomingBikes" class="TestCases.TC_1_UpcomingBikes"/>
+        <method signature="TC_1_UpcomingBikes.clickOnManufacturers()[pri:6, instance:TestCases.TC_1_UpcomingBikes@534a5a98]" name="clickOnManufacturers" class="TestCases.TC_1_UpcomingBikes"/>
+        <method signature="TC_1_UpcomingBikes.hoverOnNewBikes()[pri:2, instance:TestCases.TC_1_UpcomingBikes@534a5a98]" name="hoverOnNewBikes" class="TestCases.TC_1_UpcomingBikes"/>
+        <method signature="TC_1_UpcomingBikes.verifyHomeTitle()[pri:1, instance:TestCases.TC_1_UpcomingBikes@534a5a98]" name="verifyHomeTitle" class="TestCases.TC_1_UpcomingBikes"/>
+        <method signature="TC_1_UpcomingBikes.verifyHondaSelected()[pri:7, instance:TestCases.TC_1_UpcomingBikes@534a5a98]" name="verifyHondaSelected" class="TestCases.TC_1_UpcomingBikes"/>
+        <method signature="TC_1_UpcomingBikes.verifyUpcomingBikeOption()[pri:3, instance:TestCases.TC_1_UpcomingBikes@534a5a98]" name="verifyUpcomingBikeOption" class="TestCases.TC_1_UpcomingBikes"/>
+        <method signature="TC_1_UpcomingBikes.verifyUpcomingBikePageTitle()[pri:5, instance:TestCases.TC_1_UpcomingBikes@534a5a98]" name="verifyUpcomingBikePageTitle" class="TestCases.TC_1_UpcomingBikes"/>
+      </group> <!-- sanity -->
+      <group name="master">
+        <method signature="TC_1_UpcomingBikes.ClickOnUpcomingBikes()[pri:4, instance:TestCases.TC_1_UpcomingBikes@534a5a98]" name="ClickOnUpcomingBikes" class="TestCases.TC_1_UpcomingBikes"/>
+        <method signature="TC_1_UpcomingBikes.bikesBelow4Lakhs()[pri:8, instance:TestCases.TC_1_UpcomingBikes@534a5a98]" name="bikesBelow4Lakhs" class="TestCases.TC_1_UpcomingBikes"/>
+        <method signature="TC_1_UpcomingBikes.clickOnManufacturers()[pri:6, instance:TestCases.TC_1_UpcomingBikes@534a5a98]" name="clickOnManufacturers" class="TestCases.TC_1_UpcomingBikes"/>
+        <method signature="TC_1_UpcomingBikes.hoverOnNewBikes()[pri:2, instance:TestCases.TC_1_UpcomingBikes@534a5a98]" name="hoverOnNewBikes" class="TestCases.TC_1_UpcomingBikes"/>
+        <method signature="TC_1_UpcomingBikes.verifyHomeTitle()[pri:1, instance:TestCases.TC_1_UpcomingBikes@534a5a98]" name="verifyHomeTitle" class="TestCases.TC_1_UpcomingBikes"/>
+        <method signature="TC_1_UpcomingBikes.verifyHondaSelected()[pri:7, instance:TestCases.TC_1_UpcomingBikes@534a5a98]" name="verifyHondaSelected" class="TestCases.TC_1_UpcomingBikes"/>
+        <method signature="TC_1_UpcomingBikes.verifyUpcomingBikeOption()[pri:3, instance:TestCases.TC_1_UpcomingBikes@534a5a98]" name="verifyUpcomingBikeOption" class="TestCases.TC_1_UpcomingBikes"/>
+        <method signature="TC_1_UpcomingBikes.verifyUpcomingBikePageTitle()[pri:5, instance:TestCases.TC_1_UpcomingBikes@534a5a98]" name="verifyUpcomingBikePageTitle" class="TestCases.TC_1_UpcomingBikes"/>
+      </group> <!-- master -->
+    </groups>
+    <test started-at="2024-03-04T16:42:01 IST" name="Test" finished-at="2024-03-04T16:44:33 IST" duration-ms="152468">
+      <class name="TestCases.TC_1_UpcomingBikes">
+        <test-method is-config="true" signature="driverSetup(java.lang.String,java.lang.String)[pri:0, instance:TestCases.TC_1_UpcomingBikes@534a5a98]" started-at="2024-03-04T16:42:02 IST" name="driverSetup" finished-at="2024-03-04T16:42:47 IST" duration-ms="45261" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetup -->
+        <test-method signature="verifyHomeTitle()[pri:1, instance:TestCases.TC_1_UpcomingBikes@534a5a98]" started-at="2024-03-04T16:42:47 IST" name="verifyHomeTitle" finished-at="2024-03-04T16:42:47 IST" duration-ms="274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomeTitle -->
+        <test-method signature="hoverOnNewBikes()[pri:2, instance:TestCases.TC_1_UpcomingBikes@534a5a98]" started-at="2024-03-04T16:42:48 IST" name="hoverOnNewBikes" finished-at="2024-03-04T16:42:48 IST" duration-ms="232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hoverOnNewBikes -->
+        <test-method signature="verifyUpcomingBikeOption()[pri:3, instance:TestCases.TC_1_UpcomingBikes@534a5a98]" started-at="2024-03-04T16:42:48 IST" name="verifyUpcomingBikeOption" finished-at="2024-03-04T16:42:49 IST" duration-ms="148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUpcomingBikeOption -->
+        <test-method signature="ClickOnUpcomingBikes()[pri:4, instance:TestCases.TC_1_UpcomingBikes@534a5a98]" started-at="2024-03-04T16:42:49 IST" name="ClickOnUpcomingBikes" finished-at="2024-03-04T16:43:40 IST" duration-ms="51364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnUpcomingBikes -->
+        <test-method signature="verifyUpcomingBikePageTitle()[pri:5, instance:TestCases.TC_1_UpcomingBikes@534a5a98]" started-at="2024-03-04T16:43:41 IST" name="verifyUpcomingBikePageTitle" finished-at="2024-03-04T16:43:41 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUpcomingBikePageTitle -->
+        <test-method signature="clickOnManufacturers()[pri:6, instance:TestCases.TC_1_UpcomingBikes@534a5a98]" started-at="2024-03-04T16:43:41 IST" name="clickOnManufacturers" finished-at="2024-03-04T16:44:25 IST" duration-ms="44227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnManufacturers -->
+        <test-method signature="verifyHondaSelected()[pri:7, instance:TestCases.TC_1_UpcomingBikes@534a5a98]" started-at="2024-03-04T16:44:25 IST" name="verifyHondaSelected" finished-at="2024-03-04T16:44:25 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHondaSelected -->
+        <test-method signature="bikesBelow4Lakhs()[pri:8, instance:TestCases.TC_1_UpcomingBikes@534a5a98]" started-at="2024-03-04T16:44:26 IST" name="bikesBelow4Lakhs" finished-at="2024-03-04T16:44:31 IST" duration-ms="5122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bikesBelow4Lakhs -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestCases.TC_1_UpcomingBikes@534a5a98]" started-at="2024-03-04T16:44:31 IST" name="close" finished-at="2024-03-04T16:44:33 IST" duration-ms="1889" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestCases.TC_1_UpcomingBikes -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
